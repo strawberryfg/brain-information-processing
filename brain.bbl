@@ -1,0 +1,60 @@
+\begin{thebibliography}{10}
+
+\bibitem{fcn}
+Trevor~Darrell Jonathan~Long, Evan~Shelhamer.
+\newblock Fully convolutional networks for semantic segmentation.
+\newblock {\em CVPR}, 2015.
+
+\bibitem{adaption}
+Kanwisher~N Kourtzi~A.
+\newblock Representation of perceived object shape by the human lateral
+  occipital complex.
+\newblock {\em Science}, 293:1506--1509, 2001.
+
+\bibitem{attention}
+Brown~V. LaBerge~D.
+\newblock Theory of attention operation in shape identification.
+\newblock {\em Pyschological Review}, 40:225--240, 1986.
+
+\bibitem{main}
+George~R.Mangun Michael S.~Gazzaniga, Richard~B.Ivry.
+\newblock {\em 认知神经科学——关于心智的生物学}.
+\newblock 中国轻工业出版社, 2013.
+
+\bibitem{deep}
+Kaiming He Xiangyu Zhang Shaoqing Ren~Jian Sun.
+\newblock Deep residual learning for image recognition.
+\newblock {\em arxiv}, 2015.
+
+\bibitem{delving}
+Kaiming He Xiangyu Zhang Shaoqing Ren~Jian Sun.
+\newblock Delving deep into rectifiers: Surpassing human-level performance on
+  imagenet classification.
+\newblock {\em arxiv}, 2015.
+
+\bibitem{visualize}
+Matthew~D. Zeiler and Rob Fergus.
+\newblock Visualizing and understanding convolutional networks.
+\newblock {\em ECCV}, 2014.
+
+\bibitem{hsh}
+韩世辉 朱滢.
+\newblock {\em 认知神经科学}.
+\newblock 广东高等教育出版社, 2007.
+
+\bibitem{lyj}
+罗跃嘉~姜扬 程康.
+\newblock {\em 认知神经科学教程}.
+\newblock 北京大学出版社, 2006.
+
+\bibitem{jsll}
+罗四维等.
+\newblock {\em 视觉信息认知计算理论}.
+\newblock 科学出版社, 2010.
+
+\bibitem{sjkxyl}
+韩济生.
+\newblock {\em 神经科学原理}.
+\newblock 北京医科大学出版社, 1999.
+
+\end{thebibliography}

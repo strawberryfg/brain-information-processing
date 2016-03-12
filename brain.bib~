@@ -1,0 +1,73 @@
+@book{hsh,
+title="认知神经科学",
+author="韩世辉 朱滢",
+publisher="广东高等教育出版社",
+year="2007"
+}
+
+@book{jsll,
+title="视觉信息认知计算理论",
+author="罗四维等",
+publisher="科学出版社",
+year="2010"
+}
+
+@book{lyj,
+title="认知神经科学教程",
+author="罗跃嘉 姜扬 程康",
+publisher="北京大学出版社",
+year="2006"
+}
+
+@book{main,
+title="认知神经科学——关于心智的生物学",
+author="Michael S. Gazzaniga, Richard B.Ivry, George R.Mangun",
+publisher="中国轻工业出版社",
+year="2013"
+}
+
+@article{visualize,
+title="Visualizing and Understanding Convolutional Networks",
+author="Matthew D. Zeiler and Rob Fergus",
+Journal="ECCV",
+year="2014"
+}
+
+@article{fcn,
+author="Jonathan Long, Evan Shelhamer, Trevor Darrell",
+title="Fully Convolutional Networks for Semantic Segmentation",
+journal="CVPR",
+year="2015"
+}
+
+@article{attention,
+author="LaBerge D,Brown V.",
+title="Theory of attention operation in shape identification",
+journal="Pyschological Review",
+year={1986},
+volume={40},
+pages="225-240"
+}
+
+@article{adaption,
+author="Kourtzi A., Kanwisher N",
+title="Representation of Perceived Object Shape by the Human Lateral Occipital Complex",
+journal="Science",
+year={2001},
+volume={293},
+pages="1506-1509"
+}
+
+@article{deep,
+author="Kaiming He Xiangyu Zhang Shaoqing Ren Jian Sun",
+title="Deep Residual Learning for Image Recognition",
+journal="arxiv",
+year={2015}
+}
+
+@article{delving,
+author="Kaiming He Xiangyu Zhang Shaoqing Ren Jian Sun",
+title="Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification",
+journal="arxiv",
+year={2015}
+}
